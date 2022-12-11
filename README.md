@@ -2,4 +2,4 @@
 
 Hi!
 
-I started to learn Javascript and I get very excited.
+I started to learn Java and I get very excited.
